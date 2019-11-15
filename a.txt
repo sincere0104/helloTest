@@ -1,6 +1,6 @@
 aaa
 bbb
-删除ccc
+ccc
 ddd
 eeee
 ffff

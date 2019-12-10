@@ -1,8 +1,5 @@
 新文件
 郑博宇
 zongxingxng
-<<<<<<< HEAD
 sssss99999
-=======
 sssss88888
->>>>>>> 36ab0ddbf4c1df8d182cbd3a101f4afe0533f2f7
